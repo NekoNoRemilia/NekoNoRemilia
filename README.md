@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
   
-I am a Software Engineer and Gamedev <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 🇧🇷
+I am a developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil. 🇧🇷
 
 - :video_game: I’m working as a Game developer with Unity and C#  and contributing to frontend and backend.
 
@@ -37,7 +37,7 @@ I am a Software Engineer and Gamedev <img src="https://media.giphy.com/media/WUl
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/debian/debian-original.svg" title="Debian" alt="Debian OS" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="Linux" alt="Linux OS" width="40" height="40" />&nbsp;
   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity3D" alt="Unity3D Engine" width="40" height="40" />&nbsp;-->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/godot/godot-original.svg" title="Godot" alt="Godot Engine" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Rust" alt="Rust programming language" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/haxe/haxe-original.svg" title="Haxe" alt="Haxe" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python3" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" />&nbsp;
@@ -54,7 +54,7 @@ I am a Software Engineer and Gamedev <img src="https://media.giphy.com/media/WUl
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NekoNoRemilia&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNoRemilia)](https://github.com/NekoNoRemilia/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNoRemilia)](https://github.com/NekoNoRemilia/github-readme-stats)
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 -->
 <!---
